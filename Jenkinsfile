@@ -5,7 +5,7 @@ pipeline {
         stage('Build') {
             steps {
                 echo 'Hello World'
-                mvn install
+               sh 'mvn install'
             }
         }
     
