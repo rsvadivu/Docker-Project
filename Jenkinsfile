@@ -12,6 +12,7 @@
     stage("Docker image"){
              steps{
                 docker build -t rsvadivu/spring-website:v2 .
+            
              }
          
         }
