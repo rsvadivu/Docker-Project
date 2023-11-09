@@ -205,12 +205,12 @@
 		<repository>
 			<id>spring-webiste-release</id>
 			<name>spring-webiste-release</name>
-			<url>http://3.140.247.197:8081/repository/spring-webiste-release/</url>
+			<url>http://3.145.132.11:8081/repository/spring-webiste-release/</url>
 		</repository>
 		<snapshotRepository>
 			<id>spring-webiste-snapshot</id>
 			<name>spring-webiste-snapshot</name>
-			<url>http://3.140.247.197:8081/repository/spring-webiste-snapshot//</url>
+			<url>http://3.145.132.11:8081/repository/spring-webiste-snapshot/</url>
 		</snapshotRepository>
 	</distributionManagement>
 
