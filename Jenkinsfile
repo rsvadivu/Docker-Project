@@ -3,7 +3,7 @@
      stages{
          stage("Build"){
              steps{
-                mvn install
+               
                 ls
              }
          
