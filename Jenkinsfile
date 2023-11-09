@@ -9,7 +9,7 @@ pipeline {
         }
     
 
-        stage('Hello2') {
+        stage('Dockerimage') {
             steps {
                 echo 'Hello World234'
             }
